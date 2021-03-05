@@ -1,4 +1,7 @@
 # cypress-e2e-angular-realworld-app
+
+Projeto desenvolvido no bootcamp Avanade Fullstack.
+
 This project includes examples for e2e testing with cypress for the angular-realworld-example-app a.k.a Conduit
 
 Além da implementação dos testes sugeridos nos vídeos, também foi incluído um teste para o botão de like na tela de listagem de posts no seguinte arquivo.
